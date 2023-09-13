@@ -1,4 +1,4 @@
--0# SET09102 portfolio
+SET09102 portfolio
 
 This repository provide a starting template for your SET09102 portfolio.
 
