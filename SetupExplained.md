@@ -37,7 +37,6 @@ Afterward, to confirm that the steps taken so far had worked, I created a file a
 | <b> Fig.2 - Showing changes pushed to GitHub </b> |
 
 ## Understanding <a name = "understanding"></a>
-'
 
 I will discuss each step of this task individually and discuss the alternate options that I am aware of. It should be noted that the usage of Visual Studio and GitHub is a requirement for the class; thus, different platforms and software will not be discussed.
 
