@@ -6,7 +6,7 @@ I will achieve this by using screenshots and describing the necessary steps requ
 
 Afterward, I will reflect on what I have discussed in this file. I will discuss any problems I have encountered, why the configuration included is appropriate for the task, any limitations the configuration has, and finally, alternative configurations that may be better in the future or with different circumstances.
 
-## Setting Up
+## Setting Up Development Environment
 
 First, a brief overview of what was required in week 2. 
 
@@ -37,6 +37,7 @@ Afterward, to confirm that the steps taken so far had worked, I created a file a
 | <b> Fig.2 - Showing changes pushed to GitHub </b> |
 
 ## Understanding <a name = "understanding"></a>
+'
 
 I will discuss each step of this task individually and discuss the alternate options that I am aware of. It should be noted that the usage of Visual Studio and GitHub is a requirement for the class; thus, different platforms and software will not be discussed.
 
@@ -44,7 +45,7 @@ Setting up Visual Studio is reasonably straightforward, from downloading, instal
 
 I am also aware of other configuration settings I could have used. For example, when installing, there are many packs available that would provide additional capabilities and benefits to Visual Studio. However, after a browse, I didn't see any that seemed relevant to this specific task. Another potential change could have been the version of Visual Studio I downloaded. As mentioned, I am using [Visual Studio Community Edition 2022](https://visualstudio.microsoft.com/vs/), but there are numerous versions of Visual Studio, such as [Visual Studio Professional](https://visualstudio.microsoft.com/vs/professional/) and [Visual Studio Enterprise](https://visualstudio.microsoft.com/vs/enterprise/). These different versions may have features that differ. However, the reason I chose the Community Edition is that it states on the website that it is suitable for students, whereas the others are for teams of varying sizes. This does come with some limitations, as it is intended for individual developers, open source projects, academic research, and small teams of up to 5 users. Professional and Enterprise are for larger teams and come with additional tools.
 
-Setting up GitHub was a different story. I had no prior experience with GitHub, but I had heard of it. Thus, this has been an entirely new experience for me. I have since discovered uses for it and understand how to use it for the limited number of tasks required thus far. I can also see why it is a benefit to individuals and companies, with the comprehensive version control that it provides, the collaboration features, as well as security on projects. In terms of limitations, as I am a free user, I am unable to store more than 500MB total, although I don't see this as being an issue. Another limitation is file size is limited to 50MiB per file. MiB means MebiByte, and is different from a MB, in that an MB is 1000000 bytes, and a MiB is 1048576 bytes. This again doesn't seem like it will be a limiting factor in this scenario.
+Setting up GitHub was a different story. I had no prior experience with GitHub, but I had heard of it. Thus, this has been an entirely new experience for me. I have since discovered uses for it and understand how to use it for the limited number of tasks required thus far. I can also see why it is a benefit to individuals and companies, with the comprehensive version control that it provides, the collaboration features, as well as security on projects. In terms of limitations, as I am a free user, I am unable to store more than 500MB total, although I don't see this as being an issue. Another limitation is file size, which is limited to 50MiB per file. MiB means MebiByte, and is different from a MB, in that an MB is 1000000 bytes, and a MiB is 1048576 bytes. This again doesn't seem like it will be a limiting factor in this scenario.
 
 ## Reflection
 
@@ -60,4 +61,4 @@ The issues I faced during the steps taken in this document were almost entirely 
 
 After connecting the two, I had to research how I could interact with GitHub using Visual Studio, which took a lot of trial and error. For instance, I had files on Visual Studio that I could see had been changed, and yet I couldn't push them onto GitHub. This was because I didn't enter a message and commit first, as I didn't even know what these meant. But now, with the research and through trial and error, I understand how to record changes and send them onto GitHub.
 
-These were the issues I faced. However, I am glad they happened, as I have now learned much more about both Visual Studio and GitHub by researching each when they occurred. I look forward to the feedback I will get for this, as ultimately, I would like to improve, and having never touched GitHub or even a markup language, I can see now how useful they are.
+These were the issues I faced. However, I am glad they happened, as I have now learned much more about both Visual Studio and GitHub by researching each issue when they occurred. I look forward to the feedback I will get for this task, as ultimately, I would like to improve, and having never touched GitHub or even a markup language, I can see now how useful they are.
