@@ -34,7 +34,23 @@ I will tackle each of these tasks in order and where necessary, provide screensh
 
 ### Accepting a task
 
-Accepting a task from the project backlog on GitHub is easy due to the kanban integration. 
+Accepting a task from the project backlog on GitHub is easy due to the kanban integration. Simply click the
+"Issues" button at the top of the GitHub repository to view the active issues. Then, you can choose the issue 
+to work on, then when the task is chosen, you can assign yourself to the task, as shown below.
+
+| ![3 steps to assign](images/Assigning.png "This shows the 3 steps involved to assign a task to yourself") |
+|:--:|
+| <b> Fig.1 - 3 steps to assign a task in GitHub </b> |
+
+### Update the task information
+
+Before or after accepting the task, the user is able to leave a comment. It may be reasonable to leave a comment
+with the date that you take the task, as well as when you would expect to hand it in.
+
+### Update the task board appropriately
+
+Updating the task board is made easy with kanban, it can be done on both GitHub and Zube.io. Since the previous example
+was shown on GitHub, I will show the process on Zube.io for this step. 
 
 
 
