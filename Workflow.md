@@ -50,7 +50,16 @@ with the date that you take the task, as well as when you would expect to hand i
 ### Update the task board appropriately
 
 Updating the task board is made easy with kanban, it can be done on both GitHub and Zube.io. Since the previous example
-was shown on GitHub, I will show the process on Zube.io for this step. 
+was shown on GitHub, I will show the process on Zube.io for this step. Below is an image of the kanban board our team is using
+on Zube.io.
+
+| ![kanban board](images/Zube.png "The kanban board.") |
+|:--:|
+| <b> Fig.2 - The kanban board on Zube.io </b> |
+
+As is clearly visible, the kanban board has numerous boxes, and users with access are able to drag and drop
+each post into any box they need to, which allows the user to easily update the status of their task.
+
 
 
 
