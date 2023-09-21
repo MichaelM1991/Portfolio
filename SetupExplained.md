@@ -2,7 +2,7 @@
 
 I have been tasked by my lecturer, Brian Davison, to demonstrate that my current development environment is set up correctly and that I have an understanding of the setup as well as other potential configuration settings.
 
-I will achieve this by using screenshots and describing the necessary steps required. However, as this document is not intended for a layman, I will not be including every step. For example, I won't provide instructions on how to download an application but will provide a link to that application.
+I will achieve this by using screenshots and describing the necessary steps required. However, as this document is not intended for a layman, I will not be including every step. For example, I won't provide instructions on how to download an application but I will provide a link to that application.
 
 Afterward, I will reflect on what I have discussed in this file. I will discuss any problems I have encountered, why the configuration included is appropriate for the task, any limitations the configuration has, and finally, alternative configurations that may be better in the future or with different circumstances.
 
