@@ -58,8 +58,42 @@ on Zube.io.
 | <b> Fig.2 - The kanban board on Zube.io </b> |
 
 As is clearly visible, the kanban board has numerous boxes, and users with access are able to drag and drop
-each post into any box they need to, which allows the user to easily update the status of their task.
+each post into any box they need to, which allows the user to easily update the status of their task. I moved
+the task I wanted to tackle into the "In progress" section. 
 
+### Complete the development task on a feature branch
+
+To achieve this, first the user would open the branches section of the GitHub repository, then, they would create their own branch to work on.
+The team have agreed on a desired naming system for doing this. It is as follows - feature_name/firstname-surname-ID-issue_number. As can be seen below,
+this is how my one looks.
+
+| ![Issue name as branch](images/IssueImg.png "My issue branch name.") |
+|:--:|
+| <b> Fig.2 - This image shows the task I chose as the branch. </b> |
+
+Afterwards, I opened my Visual Studio and changed the branch on the shared team repository to the name of the branch I created as shown below.
+
+| ![Shared repo branch change](images/ChangeRepo.png "Changing branch.") |
+|:--:|
+| <b> Fig.2 - This image shows where to change branch name, and that I have done it. </b> |
+
+To do this, click the dropdown and select "Remote" and the branch should be listed. However, if it is not, you may need to sync
+again before trying.
+
+Also, the task I chose was to create a program which would allow the user to add, view, update and delete different types of equipment from
+a local database. I achieved this by using the .Net Maui framework in Visual Studio, and SQLite to create the local database. I will not cover
+this further, as it is not required. 
+
+### Commit the changes with appropriate comments
+
+To commit the changes, we do it on the same page displayed above, where we changed the branch.
+Committing the changes means that the changes will be made locally and not made on the GitHub repository yet.
+I will add comments to show that the project has been completed and added to a separate folder, to allow anyone
+who looks at it to know what I have added and how to access it as seen below.
+
+| ![Committing the changes.](images/Commit.png "Comments and commit.") |
+|:--:|
+| <b> Fig.2 - This image shows where the user would commit, as well as appropriate comments </b> |
 
 
 
